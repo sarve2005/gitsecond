@@ -5,3 +5,4 @@ to see difference between branches use "git diff <branchname>"
 for merging branches use "git merge <branchname>" and then push it 
 for creating new branch use "git branch <branchname>"
 if u got stuck somewhere in editor , then press 'q'
+to push as usual use "git push origin <branchname>"
