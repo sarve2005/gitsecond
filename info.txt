@@ -1,3 +1,5 @@
 actually this is a fun and clumpsy code i did, if any mistakes don't concentrate on it :)
 to change branch use "git checkout <branch name>"
 to see branch list use "git branch -a"
+to see difference between branches use "git diff <branchname>"
+for merging branches use "git merge <branchname>" then push it 
